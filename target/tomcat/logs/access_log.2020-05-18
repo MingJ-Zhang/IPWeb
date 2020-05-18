@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:46 +0800] "GET /IPWeb/ HTTP/1.1" 200 784 http-bio-8080-exec-2 1113
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:46 +0800] "GET /IPWeb/layui/css/layui.css HTTP/1.1" 404 1001 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:46 +0800] "GET /IPWeb/layui/layui.js HTTP/1.1" 404 991 http-bio-8080-exec-1 23
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:50 +0800] "POST /IPWeb/selectServlet HTTP/1.1" 200 800 http-bio-8080-exec-5 271
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:50 +0800] "GET /IPWeb/layui/css/layui.css HTTP/1.1" 404 1001 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:50 +0800] "GET /IPWeb/layui/layui.js HTTP/1.1" 404 991 http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:56 +0800] "POST /IPWeb/selectServlet HTTP/1.1" 200 800 http-bio-8080-exec-8 15
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:56 +0800] "GET /IPWeb/layui/css/layui.css HTTP/1.1" 404 1001 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:56 +0800] "GET /IPWeb/layui/layui.js HTTP/1.1" 404 991 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:58 +0800] "POST /IPWeb/selectServlet HTTP/1.1" 200 827 http-bio-8080-exec-10 7
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:58 +0800] "GET /IPWeb/layui/css/layui.css HTTP/1.1" 404 1001 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [18/May/2020:18:20:58 +0800] "GET /IPWeb/layui/layui.js HTTP/1.1" 404 991 http-bio-8080-exec-3 1
